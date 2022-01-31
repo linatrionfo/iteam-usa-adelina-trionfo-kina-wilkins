@@ -6,7 +6,7 @@ body {
 
 .header {
 
-    height: 160px;
+    height: 140px;
 
     background-color: #b2e7ee;
 
@@ -43,9 +43,11 @@ body {
 
 .header a:hover {
 
-    letter-spacing: 3px;
+
 
 }
+
+
 
 /* balzano font
 font-family: balzano-std, sans-serif;
