@@ -6,31 +6,44 @@ body {
 
 .header {
 
-    height: 280px;
+    height: 160px;
 
     background-color: #b2e7ee;
 
-    display: flex;
-
-}
-
-.nav {
-
-    font-size: 40;
-
-    font-family: forma-djr-micro, sans-serif;
-
-    font-weight: 200;
-
-    font-style: normal;
-    
     display: flex;
 
     align-items: center;
 
     justify-content: space-around;
 
+    font-size: 40;
+
+    font-family: forma-djr-micro, sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+}
+.header img {
+
+    height: 170px;
+
+}
+
+.header a {
+
     text-decoration: none;
+
+    color: black;
+
+    transition: 1s;
+
+}
+
+.header a:hover {
+
+    letter-spacing: 3px;
 
 }
 
