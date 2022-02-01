@@ -97,6 +97,20 @@ body {
 
 .addresswrapper {
 
+    height: 400px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    align-items: center;
+    
+}
+
+.address {
+
     background-color: #b2f9b1;
 
     font-family: museo, serif;
@@ -107,11 +121,148 @@ body {
 
     font-size: 40px; 
 
+    height: 241px;
+
+    width: 600px;
+
+    text-align: center;
+
+}
+
+.tablewrapper {
+
     height: 400px;
 
     display: flex;
 
-    justify-content: space-around;
+    justify-content: center;
+
+    align-items: center;
+
+    margin-bottom: 80px;
+
+}
+
+
+.tablewrapper h1 {
+
+    font-family: forma-djr-micro, sans-serif;
+
+    font-weight: 300;
+
+    font-style: normal;
+
+    font-size: 45px;
+
+    text-align: center;
+
+    margin-right: 10px;
+
+    margin-left: 10px;
+
+}
+
+.tablewrapper p {
+
+    font-family: museo, serif;
+
+    font-weight: 100;
+
+    font-style: normal;
+
+    font-size: 35px;
+
+    text-align: center;
+
+    margin-right: 10px;
+
+    margin-left: 10px;
+
+}
+
+.daysupport {
+
+    height: 400px;
+
+    width: 400px; 
+
+    background-image: url("../images/daysupport.png");
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+}
+
+.respite {
+
+    height: 400px;
+
+    width: 400px; 
+
+    background-image: url("../images/respite.png");
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+}
+
+.infanttoddlercare {
+
+    height: 400px;
+
+    width: 400px; 
+
+    background-image: url("../images/infanttoddlercare.png");
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+}
+
+.awardswon {
+
+    height: 700px;
+
+    background-color: #b2e7ee;
+
+}
+
+.heading {
+
+    height: 250px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.awards {
+
+    height: 450px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
 
     align-items: center;
 
