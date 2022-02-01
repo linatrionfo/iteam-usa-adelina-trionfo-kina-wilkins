@@ -252,6 +252,14 @@ body {
 
     align-items: center;
 
+    font-family: museo, serif;
+
+    font-weight: 80;
+
+    font-style: normal;
+
+    font-size: 46px;
+
 }
 
 .awards {
@@ -262,10 +270,20 @@ body {
 
     flex-direction: row;
 
-    justify-content: center;
+    justify-content: space-around;
 
     align-items: center;
 
     text-align: center;
+
+    font-family: forma-djr-micro, sans-serif;
+
+    font-weight: 300;
+
+    font-style: normal;
+
+    font-size: 30px;
+
+    line-height: 200%;
 
 }
