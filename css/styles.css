@@ -94,3 +94,27 @@ body {
     text-decoration: none;
 
 }
+
+.addresswrapper {
+
+    background-color: #b2f9b1;
+
+    font-family: museo, serif;
+
+    font-weight: 100;
+
+    font-style: normal;
+
+    font-size: 40px; 
+
+    height: 400px;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    text-align: center;
+
+}
