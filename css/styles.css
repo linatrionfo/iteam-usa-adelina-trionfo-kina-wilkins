@@ -16,7 +16,7 @@ body {
 
     justify-content: space-around;
 
-    font-size: 40;
+    font-size: 20px;
 
     font-family: forma-djr-micro, sans-serif;
 
@@ -47,10 +47,74 @@ body {
 
 }
 
+.ourmission {
 
+    height: 250px;
 
-/* balzano font
-font-family: balzano-std, sans-serif;
-font-weight: 400;
-font-style: normal;
-*/
+    background-color: #7bb299;
+
+    margin: 0;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.missionbutton {
+
+    height: 70px;
+
+    width: 700px;
+    
+    color: #b2f9b1;
+
+    font-family: balzano-std, sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+    font-size: 65px;
+
+    text-align: center;
+
+    border-style: solid;
+
+    border-color: #b2f9b1;
+
+}
+
+.missionbutton a {
+
+    color: #b2f9b1;
+
+    text-decoration: none;
+
+}
+
+.addresswrapper {
+
+    background-color: #b2f9b1;
+
+    font-family: museo, serif;
+
+    font-weight: 100;
+
+    font-style: normal;
+
+    font-size: 40px; 
+
+    height: 400px;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    text-align: center;
+
+}
