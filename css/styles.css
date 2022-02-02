@@ -294,14 +294,26 @@ body {
 
 /* Footer Styles */
 footer{
-    background-color: #b2e7b2;
+    background-color: #b2e7ee;
     text-align: center;
 }
-footer h1 .thankyou{
+footer h1{
     font-size: 5em;
     font-family: balzano-std, sans-serif;
     font-weight: 400;
     font-style: normal;
     text-align: center;
     color: black;
+}
+footer .footer-sponsors {
+    display: flex;
+    justify-content: center;
+}
+
+footer .footer-sponsors .columns{
+    line-height: 1.8;
+}
+
+footer .footer-sponsors .columns ul{
+    list-style-type: none;
 }
