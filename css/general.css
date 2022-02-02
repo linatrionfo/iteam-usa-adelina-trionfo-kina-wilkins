@@ -5,15 +5,32 @@ header{
     font-style: normal;
     text-align: center;
     color: #7BB299;
+    margin: 20px 0px;
 }
 
-.header-content{
-    
+.heading-content{
+    font-family: museo, serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 2em;
+    text-align: center;
+    margin: 20px 100px;
+}
 
-font-family: museo, serif;
+.list{
+    list-style-type:none;
+    text-align: center;
+    line-height: 1.8;
+    font-family: forma-djr-micro,sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 2em;
+}
 
-font-weight: 100;
-
-font-style: normal;
-
+main p{
+    font-family: forma-djr-micro,sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 2em;
+    margin: 20px 100px;
 }
